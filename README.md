@@ -21,7 +21,7 @@ The Bot9 Reserve Bot is a bot designed to assist users in booking rooms at the B
 ### Step 1: Clone the Repository
 Clone the project repository to your local machine using the following command:
 ```bash
-git clone https://github.com/harsh-kumar-patwa/chatbot-backend
+git clone https://github.com/MohdArshNafis/chatbot-backend
 ```
 
 ### Step 2: Install Dependencies

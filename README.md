@@ -1,6 +1,6 @@
 # Bot9 Reserve Bot
 
-### Frotend on : [chatbot-frontend](https://github.com/harsh-kumar-patwa/chatbot-frontend)
+### Frotend on : [chatbot-frontend](https://github.com/MohdArshNafis/chatbot-frontend)
 
 ## Overview
 The Bot9 Reserve Bot is a bot designed to assist users in booking rooms at the Bot9 Reserve. Users can interact with the bot to view available rooms and book them by providing necessary details. Upon successful booking, the bot generates a booking ID and confirms the room reservation.
@@ -11,10 +11,7 @@ The Bot9 Reserve Bot is a bot designed to assist users in booking rooms at the B
 - **Booking Confirmation**: The bot generates a booking ID and confirms the reservation.
 - **Sends Email Confirmation** : It also send the confirmation on the email provided.
 
-## Working Video Demo
 
-
-https://github.com/harsh-kumar-patwa/chatbot-bot9/assets/135590545/5871d3c9-7dd6-47cb-9941-017711426a80
 
 
 
